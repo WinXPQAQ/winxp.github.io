@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh-CN" /><updated>2024-09-26T00:12:52+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">winxpnara_blog</title><subtitle> もうなにもかも 忘れて
+ 
+ 今宵は シルエットダンス
+ 
+ 知らない 要らない 全然
+ 
+ なんの法則もなく
+ 
+ ただ舞って舞う
+ </subtitle><author><name>winxp</name></author><entry><title type="html">搭建个人博客指南</title><link href="http://localhost:4000/%E5%8D%9A%E5%AE%A2/%E6%8A%80%E6%9C%AF/2024/09/25/example.html" rel="alternate" type="text/html" title="搭建个人博客指南" /><published>2024-09-25T12:00:00+08:00</published><updated>2024-09-25T12:00:00+08:00</updated><id>http://localhost:4000/%E5%8D%9A%E5%AE%A2/%E6%8A%80%E6%9C%AF/2024/09/25/example</id><content type="html" xml:base="http://localhost:4000/%E5%8D%9A%E5%AE%A2/%E6%8A%80%E6%9C%AF/2024/09/25/example.html"><![CDATA[<h2 id="方法">方法</h2>
+
+<p>用 Jekyll 随便搞搞就搞定了</p>]]></content><author><name>winxp</name></author><category term="博客" /><category term="技术" /><summary type="html"><![CDATA[方法]]></summary></entry></feed>
